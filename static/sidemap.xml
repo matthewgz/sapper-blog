@@ -1,0 +1,59 @@
+
+		<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<url>
+					<loc>https://matthew-blog.netlify.app/</loc>
+					<lastmod>Tue, 05 Jan 2021 14:43:23 GMT</lastmod>
+					<priority>1.0</priority>
+			</url>
+			
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/test-svelte</loc>
+				<lastmod>Tue, 05 Jan 2021 13:07:48 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/welcome</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:52 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/the-editor</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:52 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/publishing-options</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:52 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/admin-settings</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:52 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/organising-content</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:52 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/apps-integrations</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:52 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+			<url>
+				<loc>https://matthew-blog.netlify.app//blog/themes</loc>
+				<lastmod>Tue, 05 Jan 2021 12:05:51 GMT</lastmod>
+				<priority>0.8</priority>
+			</url>
+		
+		</urlset> 
+	
