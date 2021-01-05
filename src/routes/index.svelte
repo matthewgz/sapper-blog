@@ -25,24 +25,24 @@
 
 <svelte:head>
 	<title>Matthew Rosell Felix</title>
-	<meta name="description" content="Blog de gndx live" />
+	<meta name="description" content="Blog de matthewdrf live" />
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@gndx" />
-	<meta name="twitter:creator" content="@gndx" />
-	<meta name="twitter:title" content="Oscar Barajas Tavares" />
-	<meta name="twitter:descripcion" content="Blog de gndx live" />
+	<meta name="twitter:site" content="@matthewdrf" />
+	<meta name="twitter:creator" content="@matthewdrf" />
+	<meta name="twitter:title" content="Matthew Rosell" />
+	<meta name="twitter:descripcion" content="Blog de matthewdrf live" />
 	<meta
 		name="twitter:image"
 		content="https://arepa.s3.amazonaws.com/blogpost-cover.png" />
 
-	<meta name="og:title" content="Oscar Barajas Tavares" />
-	<meta name="og:description" content="Blog de gndx live" />
+	<meta name="og:title" content="Matthew Rosell" />
+	<meta name="og:description" content="Blog de matthewdrf live" />
 	<meta
 		name="og:image"
 		content="https://arepa.s3.amazonaws.com/blogpost-cover.png" />
-	<meta name="og:url" content="https://blog.gndx.live" />
-	<meta name="og:site_name" content="Oscar Barajas Tavares" />
+	<meta name="og:url" content="https://blog.matthewdrf.live" />
+	<meta name="og:site_name" content="Matthew Rosell" />
 	<meta name="og:locale" content="es_ES" />
 	<meta name="og:type" content="article" />
 	<meta name="fb:app_id" content="" />
